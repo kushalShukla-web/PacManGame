@@ -1,2 +1,3 @@
 # PacManGame
-![ezgif-5-14a8aecda1](https://github.com/kushalShukla-web/PacManGame/assets/85934954/2fe6a6c4-6365-43a9-abab-4ca083cf2b71)
+![ezgif-5-47073294bc](https://github.com/kushalShukla-web/PacManGame/assets/85934954/5a8f0ada-21c2-4860-8df9-2b43de944e8b)
+
