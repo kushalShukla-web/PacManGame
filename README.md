@@ -58,46 +58,54 @@ click on UI of the game and start using up , down , right , left arrow . when yo
 ## Game Mechanics
 Understanding the mechanics of the Pac-Man game will help you navigate the maze, collect pellets, and outsmart the ghosts effectively. Here's a breakdown of the key game mechanics:
 
-Maze Navigation:
+### Maze Navigation:
 
 Control Pac-Man's movement using the arrow keys on your keyboard (up, down, left, right).
 Guide Pac-Man through the maze's pathways, corners, and junctions.
-Pellet Collection:
+
+### Pellet Collection:
 
 The maze is filled with small dots called pellets. Move Pac-Man over these pellets to collect them.
 Each pellet collected adds points to your score.
 Some levels might feature power pellets, which are larger and flashing. Eating these power pellets has a special effect on the game.
-Ghost Behavior:
+
+### Ghost Behavior:
 
 The maze is patrolled by colorful ghosts.
 Ghosts follow specific movement patterns, often involving pursuing Pac-Man or roaming the maze independently.
 Ghost behavior can vary, becoming more complex as you progress through the game.
-Power Pellets and Vulnerability:
+
+### Power Pellets and Vulnerability:
 
 When Pac-Man consumes a power pellet, ghosts turn blue and become vulnerable.
 During this vulnerability period, you can eat the blue ghosts for extra points.
 The duration of vulnerability is limited, so use this opportunity strategically.
-Eating Ghosts:
+
+### Eating Ghosts:
 
 To eat a vulnerable ghost, simply move Pac-Man over it while it's blue.
 Eating a ghost earns you more points and temporarily removes it from the maze.
 After a short time, the ghost returns to its normal state and resumes its pursuit of Pac-Man.
-Scoring:
+
+### Scoring:
 
 Your score increases as you collect pellets, eat ghosts, and complete levels.
 Different game elements have varying point values.
 The ultimate goal is to achieve the highest score possible.
-Lives and Game Over:
+
+### Lives and Game Over:
 
 You start the game with a set number of lives (usually 3).
 Colliding with a ghost results in the loss of a life.
 If you lose all your lives, the game is over.
 The game's objective is to maximize your score before running out of lives.
-Level Progression:
+
+### Level Progression:
 
 Successfully clearing a maze of all its pellets advances you to the next level.
 With each level, the game's difficulty might increase, featuring faster ghosts and more complex mazes.
-Strategy and Timing:
+
+### Strategy and Timing:
 
 The game requires a mix of strategy and timing to navigate the maze effectively, collect pellets, and avoid ghosts.
 Learning the movement patterns of ghosts can help you anticipate their actions and plan your route.
