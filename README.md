@@ -1,7 +1,8 @@
 <!-- Replace with your project name and description -->
 <h1 align="center">Pac-Man Game using JavaScript, HTML, CSS, and DSA Logic</h1>
 <p align="center">
-  <img src="demo.gif" alt="Pac-Man Game Demo">
+  ![ezgif-5-47073294bc](https://github.com/kushalShukla-web/PacManGame/assets/85934954/9ed09e16-db99-4d79-b506-36a29a7a2323)
+
 </p>
 
 ## 🎮 Overview
@@ -31,7 +32,7 @@ Contributions and improvements to the game are highly appreciated! If you have i
 ## 🎉 Credits
 
 - Original Pac-Man concept by Namco
-- Developed by [Your Name]
+- Developed by Kushagra Shukla
 
 ## 📄 License
 
