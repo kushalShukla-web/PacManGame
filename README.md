@@ -1,4 +1,4 @@
-# PacManGame
+# Pac-Man Game using JavaScript, HTML, CSS, and DSA Logic
 
 https://affectionate-brown-271004.netlify.app/
 
@@ -6,6 +6,7 @@ A simple implementation of the classic Pacman game using JavaScript, HTML, CSS, 
 ## Table of Contents
 
 - [Demo](#demo)
+- [Description](#description)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -19,6 +20,8 @@ A simple implementation of the classic Pacman game using JavaScript, HTML, CSS, 
 
 ## Demo
 ![ezgif-5-47073294bc](https://github.com/kushalShukla-web/PacManGame/assets/85934954/5a8f0ada-21c2-4860-8df9-2b43de944e8b)
+
+## Description
 
 ## Features
 
