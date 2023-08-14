@@ -60,6 +60,8 @@ Understanding the mechanics of the Pac-Man game will help you navigate the maze,
 
 ### Maze Navigation:
 
+![ezgif-3-f0ee365a2b](https://github.com/kushalShukla-web/PacManGame/assets/85934954/3d9ed0f7-060a-434e-8f73-ee49e87b6271)
+
 Control Pac-Man's movement using the arrow keys on your keyboard (up, down, left, right).
 Guide Pac-Man through the maze's pathways, corners, and junctions.
 
