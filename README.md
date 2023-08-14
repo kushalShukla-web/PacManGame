@@ -66,6 +66,7 @@ Control Pac-Man's movement using the arrow keys on your keyboard (up, down, left
 Guide Pac-Man through the maze's pathways, corners, and junctions.
 
 ### Pellet Collection:
+![ezgif-3-71349c1682](https://github.com/kushalShukla-web/PacManGame/assets/85934954/803dd884-9468-4d0e-96c2-6163b247ed6c)
 
 The maze is filled with small dots called pellets. Move Pac-Man over these pellets to collect them.
 Each pellet collected adds points to your score.
@@ -96,6 +97,7 @@ Different game elements have varying point values.
 The ultimate goal is to achieve the highest score possible.
 
 ### Lives and Game Over:
+![Screenshot (170)](https://github.com/kushalShukla-web/PacManGame/assets/85934954/0fdf494a-5b34-4632-a38d-9ceaf685a159)
 
 You start the game with a set number of lives (usually 3).
 Colliding with a ghost results in the loss of a life.
