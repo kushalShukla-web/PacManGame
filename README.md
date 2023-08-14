@@ -1,79 +1,44 @@
-# Pac-Man Game using JavaScript, HTML, CSS, and DSA Logic
+<!-- Replace with your project name and description -->
+<h1 align="center">Pac-Man Game using JavaScript, HTML, CSS, and DSA Logic</h1>
+<p align="center">
+  <img src="demo.gif" alt="Pac-Man Game Demo">
+</p>
 
-https://affectionate-brown-271004.netlify.app/
+## 🎮 Overview
 
-A simple implementation of the classic Pacman game using JavaScript, HTML, CSS, and data structures and algorithms knowledge
-## Table of Contents
+Welcome to my Pac-Man game project! This repository contains a browser-based Pac-Man game that I developed using JavaScript, HTML, CSS, and Data Structures and Algorithms (DSA) logic. The project aims to recreate the nostalgic arcade experience while showcasing my skills in web development and algorithmic problem-solving.
 
-- [Demo](#demo)
-- [Description](#description)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Game Mechanics](#game-mechanics)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+## 🚀 Features
 
+- **Authentic Gameplay**: Enjoy the classic Pac-Man experience with familiar mechanics and visuals.
+- **Smooth Animations**: Responsive user controls and smooth animations create an engaging gaming experience.
+- **Collision Detection**: Accurate collision detection enhances gameplay precision.
+- **Ghost AI**: Ghosts' intelligent behavior is implemented using DSA principles, providing challenging encounters.
+- **Seamless Integration**: Different technologies are merged seamlessly to deliver a cohesive gaming application.
 
-## Demo
-![ezgif-5-47073294bc](https://github.com/kushalShukla-web/PacManGame/assets/85934954/5a8f0ada-21c2-4860-8df9-2b43de944e8b)
+## 🎮 How to Play
 
-## Description
+1. **Clone the Repository**: Use the command `git clone https://github.com/yourusername/pacman-game.git` to clone the repository.
+2. **Open the Game**: Open the `index.html` file in a modern web browser.
+3. **Controls**: Use the arrow keys on your keyboard to control Pac-Man's movement.
+4. **Gameplay**: Navigate through the maze, collect pellets, and avoid the ghosts.
+5. **Challenge Yourself**: Test your skills and aim for the highest score!
 
-## Features
+## 💡 Contributions
 
-- Classic Pacman gameplay
-- Score tracking
-- Ghost AI behavior
-- Sound effects
-- Power-ups
+Contributions and improvements to the game are highly appreciated! If you have ideas for enhancements or encounter any issues, feel free to submit pull requests or raise issues in the repository.
 
-  ## Getting Started
+## 🎉 Credits
 
-### Prerequisites
+- Original Pac-Man concept by Namco
+- Developed by [Your Name]
 
-nothing !!
+## 📄 License
 
-### Installation
+This project is licensed under the [MIT License](LICENSE). Feel free to fork and modify the project as needed while adhering to the license terms.
 
-1. Clone the repository: `git clone https://github.com/your-username/pacman-game.git`
-2. Navigate to the project directory: `cd pacman-game`
-3. Open `index.html` in your web browser.
-
-## How to Play
-
-click on UI of the game and start using up , down , right , left arrow . when your ghost eat those pellets then score is increased by one . and when they eat those circle fruites then pacman become  invincible .
-
-## Game Mechanics
-ghost will never goes beyond those walls .
-uses javascript basic concepts like asynchronous function like settimeout method .
-so using unique key code we can manage to move pacman like for up arrow its having its own unique key . 
-
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- Basic DataStructure concepts 
-
-## Contributing
-
-If you want to contribute to this project and make it better, follow these steps:
-
-1. Fork the project.
-2. Create a new branch: `git checkout -b feature-name`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
+---
+<!-- Include any additional information, badges, or acknowledgments you'd like -->
 
 
 
