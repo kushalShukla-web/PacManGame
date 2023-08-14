@@ -23,6 +23,8 @@ A simple implementation of the classic Pacman game using JavaScript, HTML, CSS, 
 
 ## Description
 
+Immerse yourself in the nostalgia of the classic Pac-Man game, brought to life directly in your web browser. This project showcases my expertise in JavaScript, HTML, CSS, and Data Structures and Algorithms (DSA) logic. As you embark on this journey, you'll navigate intricate mazes, gather pellets, and tactfully outmaneuver AI-powered ghosts, all while reliving the timeless joy of arcade gaming.
+
 ## Features
 
 - Classic Pacman gameplay
